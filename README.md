@@ -1,35 +1,35 @@
 
-# Kitap Kurdu
+# Bookworm
 <br/>
-'Kitap Kurdu', kitap severler için tasarlanmış bir web sitesi projesidir. Bu proje, kitapları keşfetmenizi, kategorilere göre sıralamanızı ve detaylarını görüntülemenizi sağlar.
+'Bookworm' is a web project designed for book lovers. This project allows you to explore books, sort them by categories, and view their details.
 
-## Özellikler
+## Features
 <br/>
-- **Kitap Arama:** Kitap adıyla arama yapabilirsiniz. Eğer aradığınız kitap bulunamazsa, özel bir **NotFound** sayfasına yönlendirilirsiniz.
-- **Kitap Sıralama:** Kitaplar A-Z ve Z-A olarak sıralanabilir.
-- **Kategorilere Göre Listeleme:** Hikaye ve roman kategorilerinde kitapları filtreleyebilirsiniz.
-- **Detay Sayfası:** Her kitabın detaylarına özel bir sayfa üzerinden ulaşabilirsiniz.
+- **Book Search:** You can search for books by name. If the book you're looking for is not found, you'll be redirected to a special **NotFound** page.
+- **Book Sorting:** Books can be sorted in A-Z and Z-A order.
+- **Category Filtering:** Filter books by story or novel categories.
+- **Detail Page:** Access detailed information about each book on a dedicated page.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 <br/>
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
 - **Bootstrap**
 - **React**
-- **Axios**: API çağrıları için kullanıldı.
-- **JSON Server**: Fake backend olarak kullanıldı.
-- **React-Router-DOM**: Sayfa yönlendirmeleri için kullanıldı.
+- **Axios:** Used for API calls.
+- **JSON Server:** Used as a fake backend.
+- **React-Router-DOM:** Used for page navigation.
 
-  ## Kullanım
-  <br/>
-- **Kitap Arama:** Arama kutusuna bir kitap adı girin.
-- **Kategori Filtreleme:** Hikaye veya roman kategorisini seçin.
-- **Kitap Sıralama:** Sıralama seçeneklerini kullanarak kitapları listeleyin.
-- **Kitap Detayları:** Bir kitabın üzerine tıklayarak detaylarını inceleyin.
+## Usage
+<br/>
+- **Book Search:** Enter a book name in the search box.
+- **Category Filtering:** Select the story or novel category.
+- **Book Sorting:** Use the sorting options to list books.
+- **Book Details:** Click on a book to view its details.
 
 
-## Ekran Görüntüleri
+## Screenshots
   <br/>
 
   
@@ -38,7 +38,7 @@
 
 
 
-Saygılarımla.....
+Kind regards.....
 
 
 
