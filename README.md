@@ -5,6 +5,7 @@
 
 ## Features
 <br/>
+
 - **Book Search:** You can search for books by name. If the book you're looking for is not found, you'll be redirected to a special **NotFound** page.
   
 - **Book Sorting:** Books can be sorted in A-Z and Z-A order.
@@ -16,6 +17,7 @@
 
 ## Technologies Used
 <br/>
+
 - **HTML5**
   
 - **CSS3**
@@ -35,6 +37,7 @@
 
 ## Usage
 <br/>
+
 - **Book Search:** Enter a book name in the search box.
   
 - **Category Filtering:** Select the story or novel category.
